@@ -1,0 +1,1 @@
+// 10.	Write a program  using multipath inheritance which creates an ambiguity. Solve the ambiguity (if any) using scope resolution operator or virtual base class.

@@ -1,0 +1,4 @@
+// Keywords in C++
+
+alignas,double, reinterpret_cast, alignof, dynamic_cast, requires, and, else, return, and_eq
+enum, short, case, asm, explicit, signed, atomic_cancel, export, sizeof, atomic_commit, extern, static, atomic_noexcept, false, static_assert, auto, float, static_cast, bitand, for, bitor, friend, switch, bool, goto, synchronized, break, if, template, case, import, this, catch, inline, thread_local, char, int, throw, char16_t, long, true, char32_t, module, try, mutable, typedef, compl, typeid, concept, new, typename, const, noexcept,constexpr, not, unsigned, const_cast, not_eq, using, continue, nullptr, virtual, co_await, operator, void, co_return, or, volatile, co_yield, or_eq, wchar_t, decltype, private, while, default, while, default, protected, xor, delete, public, xor_eq, do, register, union, class, struct
